@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: https://en.wikipedia.org/wiki/SS_Imperator
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43883#A-Brief-History-of-the-U.-S.-S.-Imperator-one-of-the-two-Largest-Ships-in-the-U.-S.-Navy.
 gutenberg_issued: '2013-10-04'
 gutenberg_type: Text
 identifiers:

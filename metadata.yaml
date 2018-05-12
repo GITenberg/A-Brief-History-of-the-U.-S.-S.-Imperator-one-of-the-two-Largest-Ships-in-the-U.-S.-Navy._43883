@@ -1,0 +1,29 @@
+_repo: A-Brief-History-of-the-U.-S.-S.-Imperator-one-of-the-two-Largest-Ships-in-the-U.-S.-Navy._43883
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43883-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: https://en.wikipedia.org/wiki/SS_Imperator
+gutenberg_issued: '2013-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Berengaria (Ship)'
+title: A Brief History of the U. S. S. Imperator, One of the Two Largest Ships in
+  the U. S. Navy.
+url: http://www.gutenberg.org/ebooks/43883
